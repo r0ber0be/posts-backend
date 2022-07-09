@@ -1,0 +1,20 @@
+{
+    "name": "projeto-2",
+    "version": "1.0.0",
+    "description": "Projeto 02 - PIW",
+    "main": "main.js",
+    "scripts": {
+        "start": "nodemon main.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "bcrypt": "^5.0.1",
+        "body-parser": "^1.19.0",
+        "cors": "^2.8.5",
+        "express": "^4.16.4",
+        "jsonwebtoken": "^8.5.1",
+        "mongoose": "^5.11.20"
+    }
+}
